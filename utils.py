@@ -15,7 +15,7 @@ my_pack_attr : str
     Yes, I have a useless module attribute
 """
 
-# import numpy as np
+import numpy as np
 
 
 my_pack_attr = 'A very fancy package attribute'
@@ -41,18 +41,18 @@ def my_fun(foo):
     return foo
 
 
-# def my_fancy_fun(bar):
-#     """ This is the first line of the 'my_fancy_fun' docstring.
-#
-#     Parameters
-#     ----------
-#     bar : str
-#         My fancy function just prints a string and returns it
-#
-#     Returns
-#     -------
-#     numpy.ndarray
-#         Yes, it returns a useless ndarray
-#     """
-#     print(bar)
-#     return np.random.randn((5,))
+def my_fancy_fun(bar):
+    """ This is the first line of the 'my_fancy_fun' docstring.
+
+    Parameters
+    ----------
+    bar : str
+        My fancy function just prints a string and returns it
+
+    Returns
+    -------
+    ndarray
+        Yes, it returns a useless ndarray
+    """
+    print(bar)
+    return np.random.randn((5,))
