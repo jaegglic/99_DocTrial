@@ -16,13 +16,6 @@ class MyClass():
     """
 
     def __init__(self, mystr):
-        """ This is the fist line of the __init__ function of 'MyClass'
-
-        Parameters
-        ----------
-        mystr : str
-            Yes, I just store a useless string
-        """
         self.mystr = mystr
 
     def print_and_return_useless_string(self):
