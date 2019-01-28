@@ -8,18 +8,18 @@ This is the first line in the `api.rst` file
 
 Test file
 ---------
-.. automodule:: trial
+.. automodule:: mypackage.trial
    :members:
 
 
 Utilities
 ---------
-.. automodule:: utils
+.. automodule:: mypackage.utils
    :members:
 
 
 Objects
 -------
-.. autoclass:: classes.MyClass
+.. autoclass:: mypackage.classes.MyClass
    :members:
 ..   :special-members:
