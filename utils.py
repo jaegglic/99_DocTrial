@@ -15,7 +15,7 @@ my_pack_attr : str
     Yes, I have a useless module attribute
 """
 
-# import numpy as np
+import numpy as np
 
 
 my_pack_attr = 'A very fancy package attribute'
@@ -55,5 +55,4 @@ def my_fancy_fun(bar):
         Yes, it returns a useless ndarray
     """
     print(bar)
-    # return np.random.randn((5,))
-    return 0
+    return np.random.randn((5,))
