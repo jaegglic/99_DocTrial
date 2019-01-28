@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-""" This is the first line of the 'trial' module.
+""" This is the first line of the `trial.py` module.
 
 Attributes
 ----------

@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-""" This is the first line of the 'classes' module.
+""" This is the first line of the `classes.py` module.
 """
 
 
