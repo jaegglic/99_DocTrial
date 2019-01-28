@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f8d39e17-9b48-44bd-830a-7ba3b67c6d2e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="f8d39e17-9b48-44bd-830a-7ba3b67c6d2e" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -14,7 +12,7 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/mypackage/utils.py">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="204">
@@ -23,7 +21,7 @@
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/mypackage/setup.py">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="255">
@@ -71,16 +69,16 @@
               <provider selected="true" editor-type-id="restructured-text-editor" />
             </entry>
           </file>
-          <file pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/docs/api.rst">
               <provider selected="true" editor-type-id="restructured-text-editor" />
             </entry>
           </file>
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/docs/conf.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="215">
-                  <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
+                <state relative-caret-position="2847">
+                  <caret line="183" selection-start-line="183" selection-end-line="188" selection-end-column="25" />
                   <folding>
                     <element signature="e#564#573#0" expanded="true" />
                   </folding>
@@ -273,12 +271,12 @@
     <frame x="3633" y="-345" width="1734" height="1447" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1432783" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1432783" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.5882801" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.5882801" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -298,29 +296,6 @@
     <entry file="file://$PROJECT_DIR$/spo_mds/classes.py" />
     <entry file="file://$PROJECT_DIR$/docs/doc.rst">
       <provider selected="true" editor-type-id="restructured-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/index.rst">
-      <provider selected="true" editor-type-id="restructured-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/api.rst">
-      <provider selected="true" editor-type-id="restructured-text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/conf.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="16" column="38" selection-start-line="16" selection-start-column="38" selection-end-line="16" selection-end-column="38" />
-          <folding>
-            <element signature="e#564#573#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/mypackage/utils.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/mypackage/classes.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -362,6 +337,29 @@
           <caret line="15" column="13" lean-forward="true" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mypackage/utils.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/conf.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2847">
+          <caret line="183" selection-start-line="183" selection-end-line="188" selection-end-column="25" />
+          <folding>
+            <element signature="e#564#573#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/index.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/api.rst">
+      <provider selected="true" editor-type-id="restructured-text-editor" />
     </entry>
   </component>
 </project>
