@@ -20,5 +20,5 @@ Utilities
 
 Objects
 -------
-.. automodule:: classes
+.. autoclass:: classes.MyClass
    :members:

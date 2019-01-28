@@ -5,6 +5,14 @@
 
 class MyClass():
     """ This is the first line of the 'MyClass' docstring.
+
+    This is the second line of the 'MyClass' docstring where longer and more
+    detailed explanations go.
+
+    Attributes
+    ----------
+    mystr : str
+            Yes, I just store a useless string
     """
 
     def __init__(self, mystr):
