@@ -1,7 +1,7 @@
 API documentation
 *****************
 
-This is the first line in the API.rst file
+This is the first line in the `api.rst` file
 
 
 :mod:`mypackage`
@@ -22,3 +22,4 @@ Objects
 -------
 .. autoclass:: classes.MyClass
    :members:
+..   :special-members:

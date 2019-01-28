@@ -3,11 +3,18 @@
 """
 
 
-class MyClass():
+class MyClass:
     """ This is the first line of the 'MyClass' docstring.
 
     This is the second line of the 'MyClass' docstring where longer and more
     detailed explanations go.
+
+    If the class has public attributes, they may be documented here
+    in an ``Attributes`` section and follow the same formatting as a
+    function's ``Args`` section. Alternatively, attributes may be documented
+    inline with the attribute's declaration (in a ``Parameters`` section
+    within __init__ ). In the first case, we don't need to add the
+    special members to the class documentation (i.e. ``:special-members:``).
 
     Attributes
     ----------
