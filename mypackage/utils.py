@@ -3,11 +3,7 @@
 
 Notes
 -----
-    This is an example of an indented section. It's like any other section,
-    but the body is indented to help it stand out from surrounding text.
-
-If a section is indented, then a section break is created by
-resuming unindented text.
+This is where important notes go.
 
 Attributes
 ----------
